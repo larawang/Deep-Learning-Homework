@@ -6,7 +6,7 @@ In this project, I will use deep learning recurrent neural networks to model bit
 
 
 
-### Evaluate the performance of each model
+### Conclusion: Evaluate the performance of each model
 
 1. Which model has a lower loss?
 
